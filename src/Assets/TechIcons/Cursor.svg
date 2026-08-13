@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 246" width="24" height="24">
+  <style>
+    path {
+      fill: #24231f;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      path {
+        fill: #ffffff;
+      }
+    }
+  </style>
+
+  <path fill-rule="evenodd" d="
+    M104 0
+    L208 61
+    V184
+    L104 246
+    L0 184
+    V61
+    Z
+
+    M8 68
+    L104 124
+    L104 234
+    L200 68
+    Z
+  "/>
+</svg>

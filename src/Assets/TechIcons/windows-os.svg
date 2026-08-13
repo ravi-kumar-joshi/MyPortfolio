@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Windows OS Logo</title>
+  <desc>Modern Windows four-pane logo in SVG format</desc>
+  <defs>
+    <linearGradient id="windowsBlue" x1="80" y1="70" x2="430" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A4EF"/>
+      <stop offset="1" stop-color="#0078D4"/>
+    </linearGradient>
+    <linearGradient id="windowsBlue2" x1="70" y1="90" x2="440" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CC2FF"/>
+      <stop offset="1" stop-color="#0078D4"/>
+    </linearGradient>
+  </defs>
+  <path d="M42 72L239 43V238L42 239V72Z" fill="url(#windowsBlue)"/>
+  <path d="M258 40L470 9V238L258 238V40Z" fill="url(#windowsBlue2)"/>
+  <path d="M42 261L239 260V457L42 428V261Z" fill="url(#windowsBlue2)"/>
+  <path d="M258 260L470 260V490L258 458V260Z" fill="url(#windowsBlue)"/>
+</svg>
