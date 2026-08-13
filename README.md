@@ -1,7 +1,8 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Ravi Kumar</a>
+  <a href="[YOUR_VERCEL_DEPLOYED_URL]" target="_blank">Ravi Kumar</a>
 </h2>
+
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
@@ -27,11 +28,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ravi-kumar-joshi](https://github.com/ravi-kumar-joshi/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Your GitHub Profile](https://github.com/ravi-kumar-joshi). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">ravikumar.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="[YOUR_VERCEL_DEPLOYED_URL]" target="_blank">Ravi Kumar.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -46,7 +47,7 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
 
 **📱 Fully Responsive**
 
@@ -72,4 +73,3 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
-
