@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="[YOUR_VERCEL_DEPLOYED_URL]" target="_blank">Ravi Kumar</a>
+  <a href="https://my-portfolio-2yt4vxf03-ravik755296-9567s-projects.vercel.app/" target="_blank">Ravi Kumar</a>
 </h2>
 
 <div align="center">
@@ -28,11 +28,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Your GitHub Profile](https://github.com/ravi-kumar-joshi). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ravi-kumar-joshi](https://github.com/ravi-kumar-joshi). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="[YOUR_VERCEL_DEPLOYED_URL]" target="_blank">Ravi Kumar.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://my-portfolio-2yt4vxf03-ravik755296-9567s-projects.vercel.app/" target="_blank">Ravi Kumar.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
