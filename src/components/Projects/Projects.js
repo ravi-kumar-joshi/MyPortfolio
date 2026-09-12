@@ -47,7 +47,7 @@ function Projects() {
               title="Clock"
               description="The Analog Clock Web App is a simple and interactive time-display application designed to show the current time using a traditional analog clock interface. The application uses HTML, CSS, and JavaScript to create a clean and responsive design with dynamically moving clock hands.
 "
-              ghLink="https://github.com/ravi-kumar-joshi/analog-clock"
+              ghLink="https://github.com/ravi-kumar-joshi/analog-clock-"
               demoLink="https://ravi-kumar-joshi.github.io/analog-clock-/"
             />
           </Col>
